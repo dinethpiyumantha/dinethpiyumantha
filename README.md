@@ -4,6 +4,9 @@
 [![HitCount](http://hits.dwyl.com/dinethpiyumantha/dinethpiyumantha.svg)](http://hits.dwyl.com/dinethpiyumantha/dinethpiyumantha)
 
 
+[![Vue](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png?raw=true)](https://vuejs.org)
+
+
 
 
 
