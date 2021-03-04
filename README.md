@@ -1,8 +1,9 @@
 ### Hi there I am Dineth 👋
+🌱 I’m currently studying as undergraduate student at SLIIT
 
 [![HitCount](http://hits.dwyl.com/dinethpiyumantha/dinethpiyumantha.svg)](http://hits.dwyl.com/dinethpiyumantha/dinethpiyumantha)
 
-🌱 I’m currently studying as undergraduate at SLIIT
+
 
 
 
