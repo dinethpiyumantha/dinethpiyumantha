@@ -4,13 +4,14 @@
 [![HitCount](http://hits.dwyl.com/dinethpiyumantha/dinethpiyumantha.svg)](http://hits.dwyl.com/dinethpiyumantha/dinethpiyumantha)
 
 
-[![Vue](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png?raw=true)](https://vuejs.org)
+
 
 
 
 
 
 <!--
+[![Vue](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png?raw=true)](https://vuejs.org)
 - 🔭 I’m currently working as a Freelancer
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
