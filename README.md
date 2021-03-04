@@ -2,7 +2,7 @@
 
 [![HitCount](http://hits.dwyl.com/dinethpiyumantha/dinethpiyumantha.svg)](http://hits.dwyl.com/dinethpiyumantha/dinethpiyumantha)
 
-- 🌱 I’m currently studying as undergraduate at SLIIT
+🌱 I’m currently studying as undergraduate at SLIIT
 
 
 
