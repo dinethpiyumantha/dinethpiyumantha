@@ -1,9 +1,13 @@
 ### Hi there I am Dineth 👋
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+[![HitCount](http://hits.dwyl.com/dinethpiyumantha/dinethpiyumantha.svg)](http://hits.dwyl.com/dinethpiyumantha/dinethpiyumantha)
+
+- 🌱 I’m currently studying as undergraduate at SLIIT
+
+
 
 <!--
+- 🔭 I’m currently working as a Freelancer
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
