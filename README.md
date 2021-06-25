@@ -18,7 +18,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 height="44" /></a></h1>
 <div align="center">
@@ -44,3 +44,5 @@ height="44" /></a></h1>
 <i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
 
 </div>
+
+-->
