@@ -1,25 +1,16 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
-
-### Hi there I am Dineth 👋
-🌱 I’m currently studying as undergraduate student at SLIIT
-
-
-
-<!-- ![Untitled-1](https://user-images.githubusercontent.com/55337770/132601297-89ab0c97-272c-4eb7-ab8c-1e7974e063c1.png) -->
-
-
-
-
-
-
-
-
+<p align="justify">
+Hi, I am Dineth Piyumantha. I am studying 🌱 Bachelor of Science in Information Technology from Sri Lanka Institute of Information Technology as a software engineering undergraduate. I am an experienced developer skilled in Vue, React, Flutter, Android/IOS Development, Full Stack Development, MERN, Javascript/Typescript.
+</p>
 
 
 ----------
 <h3 align="center">Where to find me</h3>
 <p align="center"><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/dinethpiyumanth" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dinethpiyumantha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+
+</br>
+
+---
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
