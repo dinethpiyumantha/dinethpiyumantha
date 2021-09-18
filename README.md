@@ -5,6 +5,8 @@
 
 </br>
 
+![anim](https://user-images.githubusercontent.com/55337770/133883229-8a8232ae-c6b9-4c64-b3d2-54bbf4cc3ef8.gif)
+
 ---
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
