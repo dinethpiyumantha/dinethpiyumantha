@@ -3,6 +3,8 @@
 
 > Hi, I am Dineth Piyumantha. I am studying 🌱 Bachelor of Science in Information Technology from Sri Lanka Institute of Information Technology as a software engineering undergraduate. I am an experienced developer skilled in Vue, React, Flutter, Android/IOS Development, Full Stack Development, MERN, Javascript/Typescript.
 
+[Go to my website](https://dinethpiyumantha.netlify.app)
+
 </br>
 
 ![anim](https://user-images.githubusercontent.com/55337770/133883229-8a8232ae-c6b9-4c64-b3d2-54bbf4cc3ef8.gif)
