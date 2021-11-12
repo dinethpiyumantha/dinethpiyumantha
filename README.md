@@ -6,6 +6,7 @@
 <a align="center" href="https://dinethpiyumantha.netlify.app"> :point_right: Go to my website</a>
 </br>
 <sub>Checkout below pined repositories for libraries developed by meself</sub>
+</br>
 <sup><b>For more information go to my website</b></sup>
 
 </br>
