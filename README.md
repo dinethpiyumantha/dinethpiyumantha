@@ -7,7 +7,7 @@
 </br>
 <sub>Checkout below pined repositories for libraries developed by meself</sub>
 </br>
-<sup><b>For more information go to my website</b></sup>
+<sup><b>For more information go to my portfolio</b></sup>
 
 </br>
 
