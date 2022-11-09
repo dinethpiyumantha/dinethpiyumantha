@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/dinethpiyumanth" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dinethpiyumantha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@dinethpiyumantha" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-> Hi, I am Dineth Piyumantha. I am studying 🌱 Bachelor of Science in Information Technology from Sri Lanka Institute of Information Technology as a software engineering undergraduate. I am an experienced developer skilled in Vue, React, Flutter, Android/IOS Development, Full Stack Development, MERN, Javascript/Typescript.
+> Hi, I am Dineth Piyumantha. I am studying 🌱 a Bachelor of Science in Information Technology at the Sri Lanka Institute of Information Technology as a software engineering undergraduate. I am an experienced developer skilled in Vue, React, Flutter, Android/iOS Development, Full Stack Development, MERN, and Javascript/Typescript.
 
 <a align="center" href="https://dinethpiyumantha.netlify.app"> :point_right: Go to my website</a>
 </br>
