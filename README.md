@@ -11,7 +11,7 @@
 
 </br>
 
-![mybanner](https://github.com/dinethpiyumantha/dinethpiyumantha/assets/55337770/00353fa3-219d-48fe-90d7-64d1a7de7e09)
+![mybannerNew](https://github.com/dinethpiyumantha/dinethpiyumantha/assets/55337770/01537d80-4f9f-4ecb-b433-673188b85c9c)
 
 ---
 
