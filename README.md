@@ -1,15 +1,9 @@
 <p align="center"><a href="https://github.com/dinethpiyumantha" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/dinethpiyumanth" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dinethpiyumantha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@dinethpiyumantha" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://stackoverflow.com/users/12351444/dineth-ekanayaka" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </p>
 
-> Greetings, my name is Dineth Piyumantha and I am currently pursuing 🌱 a Bachelor of Science degree in Information Technology as a software engineering undergraduate at the esteemed Sri Lanka Institute of Information Technology. With my extensive knowledge and expertise in various programming languages and technologies such as Vue, React, Flutter, Android/iOS Development, Full Stack Development, MERN, and Javascript/Typescript, I possess valuable experience as a skilled developer.
+I'm a coding enthusiast who loves building stuff for everyone! Whether it's making web apps, mobile apps, or desktop apps, I'm all in. Always on the lookout for the latest cool tricks in the coding world to make things awesome for users. Let's team up and create some tech magic!
 
-<a align="center" href="https://dinethpiyumantha.netlify.app"> :point_right: Go to my website</a>
-</br>
-<sub>Checkout below pined repositories for libraries developed by meself</sub>
-</br>
-<sup><b>For more information go to my portfolio</b></sup>
-
-</br>
+Hey, I'm Dineth Ekanayaka, an IT grad (BSc. Hons) from SLIIT, Sri Lanka. As a full-stack developer with Nodejs expertise, I blend academic insights with industry experience. I'm also into the Spring Boot (Java) scene.
 
 ![mybannerNew](https://github.com/dinethpiyumantha/dinethpiyumantha/assets/55337770/01537d80-4f9f-4ecb-b433-673188b85c9c)
 
